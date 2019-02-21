@@ -5,5 +5,6 @@ the creation/annhiliation operators. But it is hard to create these abstract ope
 So in this code, I create this abstract operators which can be used to compute the expectation values in few seconds. <br>  <br>
 
 1 simple harmonic oscillator (a and a daggeral) <br>  <br>
-2 Virasoro algebra calculation, proof central charge=26 etc
-![alt text](https://github.com/ericntunctu/Theoretical-Physics-Mathematica/blob/master/vir.png)
+![demo](https://github.com/ericntunctu/Theoretical-Physics-Mathematica/blob/master/sho.png)<br>  <br>
+2 Virasoro algebra calculation, proof central charge=26 etc <br>  <br>
+![demo](https://github.com/ericntunctu/Theoretical-Physics-Mathematica/blob/master/vir.png)
