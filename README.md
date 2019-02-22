@@ -12,6 +12,9 @@ Also if one wishs, one can construct any lie algebra (lorentz algebra, spin alge
 2 Virasoro algebra calculation, proof central charge=26 etc <br>  <br>
 ![demo](https://github.com/ericntunctu/Theoretical-Physics-Mathematica/blob/master/vir.png)
 
+3 Poincare algebra (proof Pauli Lubanski pseudovector^2 is a casimir operator)
+![demo](https://github.com/ericntunctu/Mathematica-Algebra-Calculations/blob/master/poincare.png)
+
 
 <br>
 Copy right reserved.
