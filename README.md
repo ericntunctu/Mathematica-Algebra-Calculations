@@ -15,6 +15,8 @@ Also if one wishs, one can construct any lie algebra (lorentz algebra, spin alge
 3 Poincare algebra (proof Pauli Lubanski pseudovector^2 is a casimir operator)
 ![demo](https://github.com/ericntunctu/Mathematica-Algebra-Calculations/blob/master/poincare.png)
 
+4  N=1 super Virasoro algebra calculation. Proof c=15.
+![demo](https://github.com/ericntunctu/Mathematica-Algebra-Calculations/blob/master/poincare.png)
 
 <br>
 Copy right reserved.
