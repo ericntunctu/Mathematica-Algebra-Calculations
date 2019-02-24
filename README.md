@@ -4,7 +4,7 @@ The purpose of this code is that: I want to use mathematica to realize some alge
 the creation/annhiliation operators. But it is hard to create these abstract operators rather matrix representation for these operators.
 So in this code, I create this abstract operators which can be used to compute the expectation values in few seconds. 
 <br> 
-Also if one wishs, one can construct any lie algebra (lorentz algebra, spin algebra, poincare algebra, susy algebra if they want via this code template. Some simple examples are include below. If you have any questions, please email to eric1028.ep01@gmail.com
+Also if one wishs, one can construct any lie algebra ex: lorentz algebra, spin algebra, poincare algebra, susy algebra if they want via  this code template. Some simple examples are include below. If you have any questions about the structure, please email to eric1028.ep01@gmail.com.
 <br>
 
 1 simple harmonic oscillator (a and a daggeral) <br>  <br>
